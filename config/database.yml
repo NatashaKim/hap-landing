@@ -14,7 +14,7 @@ development:
   # database: db/development.sqlite3
   adapter: postgresql
   encoding: unicode
-  database: coroone_development3
+  database: hap_promo
   pool: 5
   username: admin
   password: 2468
